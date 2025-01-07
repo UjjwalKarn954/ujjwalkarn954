@@ -3,7 +3,7 @@
 I'm a DevOps Evangelist and Engineer with a passion for promoting DevOps culture and practices. I specialize in automating and optimizing deployment processes, CI/CD, and cloud infrastructure management.
 
 ## 🔧 Technologies & Tools
-- **Containers**: Docker, Kubernetes, EC2, ECS
+- **Containers**: Docker, Kubernetes, EC2, ECS, ECS Anywhere
 - **CI/CD**: GitHub Actions, Jenkins
 - **Cloud**: AWS, Azure
 - **IaC**: Terraform, CloudFormation
