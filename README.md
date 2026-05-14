@@ -1,23 +1,25 @@
 ## Hi there 👋
 
-I'm a DevOps Evangelist and Engineer with a passion for promoting DevOps culture and practices. I specialize in automating and optimizing deployment processes, CI/CD, and cloud infrastructure management.
+**Platform Engineer II** · 5+ years building and operating high-availability 
+infrastructure on AWS and on-premise. Currently scaling 500K+ daily AI video 
+workloads at Pictory.ai — focused on Kubernetes, DevSecOps, FinOps, and CI/CD automation.
 
-## 🔧 Technologies & Tools
-- **Containers**: Docker, Kubernetes, EC2, ECS, ECS Anywhere
-- **CI/CD**: GitHub Actions, Jenkins
-- **Cloud**: AWS, Azure
-- **IaC**: Terraform, CloudFormation
-- **Monitoring**: Prometheus, Grafana
-- **Scripting**: Bash, Python
+55% cloud cost reduction · 99.9% uptime SLA · SOC 2 Type II & ISO 27001 certified
 
-## 📫 Get in Touch
-- **Email**: ujjwalkarn954@gmail.com
-- **Website**: https://ujjwalkarn954.github.io/
-- **LinkedIn**: [Ujjwal Karn](https://www.linkedin.com/in/ujjwal-kumar-karn-216a6719b/)
+## 🔧 Stack
 
-- 🌱 I’m currently learning the best practices of DevOps, Kubernetes, and its additional tools.
-- 👯 I’m looking to collaborate on DevOps practices, projects, seminars, and talks.
-- 💬 Ask me about CI/CD pipelines, cloud infrastructure management, and automating deployments.
-- 📫 How to reach me: [Ujjwalkarn954@gmail.com](mailto:ujjwalkarn954@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Bike rides and singing.
+- **Containers & Orchestration** — Kubernetes (EKS) · Helm · Docker · ECS Anywhere
+- **CI/CD & GitOps** — GitHub Actions · GitLab CI · Jenkins · ArgoCD
+- **Cloud** — AWS (EKS · ECS · EC2 · S3 · RDS · Lambda · CloudFront · SNS)
+- **IaC** — Terraform · Ansible
+- **Observability** — Prometheus · Grafana · Alertmanager · ELK Stack · CloudWatch
+- **DevSecOps** — SonarQube · Trivy · AWS Parameter Store · Infisical · IAM · RBAC
+- **Scripting** — Python · Bash
+
+## 📫 Let's connect
+
+- **Email** — ujjwalkarn954@gmail.com
+- **LinkedIn** — [Ujjwal Kumar Karn](https://www.linkedin.com/in/ujjwal-kumar-karn-216a6719b/)
+- **Website** — https://ujjwalkarn954.github.io/
+
+⚡ Bike rides & singing keep me sane outside of terminals.
